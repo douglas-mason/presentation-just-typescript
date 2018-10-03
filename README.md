@@ -1,5 +1,4 @@
-
-# mdx-deck basic template
+# Presentation: Stop Wondering and Just TypeScript!
 
 This was generated with [mdx-deck][]'s `npm init deck` command.
 
